@@ -25,3 +25,6 @@ Your settings should now be successfully updated
 
 You can now switch back to the user and account and refresh the page. After some time, the error messages previously seen should now be gone
 
+<img width="530" height="288" alt="image" src="https://github.com/user-attachments/assets/0fb84598-fc27-4809-890c-36448fb74df3" />
+
+(FINISH LATER)
