@@ -22,3 +22,6 @@ This setting is currently deactivated and needs to be activated to give the user
 Your settings should now be successfully updated
 
 <img width="527" height="307" alt="image" src="https://github.com/user-attachments/assets/0c92cfca-ed86-4497-b99c-831fccf1c236" />
+
+You can now switch back to the user and account and refresh the page. After some time, the error messages previously seen should now be gone
+
