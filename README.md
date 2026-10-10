@@ -11,4 +11,7 @@ From your root account, you want to click the drop-down arrow on your username a
 
 <img width="958" height="1073" alt="image" src="https://github.com/user-attachments/assets/7390e9fd-e285-48a9-a236-bb193e5a41d8" />
 
-Once the page has loaded 
+Once the page has loaded, scroll down until you see: IAM user and role access to Billing information, and right-click Edit
+
+<img width="960" height="1080" alt="image" src="https://github.com/user-attachments/assets/df43c0fc-e24c-4308-9ea7-c7238c63e14f" />
+
