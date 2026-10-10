@@ -15,3 +15,10 @@ Once the page has loaded, scroll down until you see: IAM user and role access to
 
 <img width="960" height="1080" alt="image" src="https://github.com/user-attachments/assets/df43c0fc-e24c-4308-9ea7-c7238c63e14f" />
 
+This setting is currently deactivated and needs to be activated to give the user and role access to the Billing information. Check the box that states: Activate IAM Access, and click on the Update button
+
+<img width="528" height="278" alt="image" src="https://github.com/user-attachments/assets/01025f07-f62d-4e82-aeb3-4530a607baa0" />
+
+Your settings should now be successfully updated
+
+<img width="527" height="307" alt="image" src="https://github.com/user-attachments/assets/0c92cfca-ed86-4497-b99c-831fccf1c236" />
