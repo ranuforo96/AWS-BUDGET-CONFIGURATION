@@ -61,3 +61,8 @@ Use the Free Tier dashboard in the left navigation menu to monitor current and f
 
 <img width="1499" height="579" alt="image" src="https://github.com/user-attachments/assets/39d4a68c-5a53-4180-b2e7-33bb0c126d66" />
 
+Now we can set up a budget. In the left hand side scroll down until you see "Budgets and Planning" and select Budgets underneath it
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/010ba14b-5db0-417c-9565-c46678396d07" />
+
+Here you can set custom thresholds that alert you when you exceed your budgeted thresholds
