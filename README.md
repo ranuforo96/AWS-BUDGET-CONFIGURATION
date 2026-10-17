@@ -43,6 +43,8 @@ Then, in the left navigation pane, if you select Bills, this is your primary das
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22ad27db-05a9-41d1-8648-b3aec8295814" />
 
+<img width="567" height="619" alt="image" src="https://github.com/user-attachments/assets/c0d35660-3005-4ccb-b8dd-71189504c7c5" />
+
 If you scroll down further, you can see the total number of active services. I currently have 9 services
 
 <img width="1541" height="723" alt="image" src="https://github.com/user-attachments/assets/c1b7a53d-7019-44ac-bc60-32cd64418f07" />
@@ -50,4 +52,12 @@ If you scroll down further, you can see the total number of active services. I c
 For instance, clicking on Amazon Elastic Compute Cloud (EC2) allows you to view the exact costs and a detailed expense breakdown
 
 <img width="1465" height="669" alt="image" src="https://github.com/user-attachments/assets/f9da4a04-efcf-4352-af44-25ddfc1d9290" />
+
+Use the Free Tier dashboard in the left navigation menu to monitor current and forecasted usage, ensuring you don't exceed your free limits and incur charges
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7497661-8064-4bee-9170-71881318fe11" />
+
+<img width="1492" height="582" alt="image" src="https://github.com/user-attachments/assets/b320bdd9-f050-4f8a-b361-0b65b9286bf3" />
+
+<img width="1499" height="579" alt="image" src="https://github.com/user-attachments/assets/39d4a68c-5a53-4180-b2e7-33bb0c126d66" />
 
