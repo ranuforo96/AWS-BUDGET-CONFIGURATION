@@ -29,7 +29,12 @@ You can now switch back to the user and account and refresh the page. After some
 
 Once you refresh the Billing and Cost Management page on the user account, you will now be able to see your Cost summary data except for "Total forecasted cost for current month", because there is not enough historical data to forecast
 
+Cost summary gives you a high-level overview of your spending, showing metrics like your month-to-date costs, comparisons to last month, and forecasted spending
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e7e57e2-fec0-4589-90c9-5958bc8e36ad" />
 
 <img width="736" height="219" alt="image" src="https://github.com/user-attachments/assets/4056da2c-bc3a-4161-a8b5-2c04ac90524c" />
 
+The cost breakdown, on the other hand, complements this by displaying exactly which services are driving those costs, such as EC2 or S3, giving you a clearer view of your service-level spending which can be seen in the screenshot below
+
+<img width="742" height="574" alt="image" src="https://github.com/user-attachments/assets/3006b972-55ed-405b-b271-3a9fddd60c5b" />
