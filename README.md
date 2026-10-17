@@ -73,3 +73,11 @@ We start by right-clicking "Create a budget"
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2c883f1-c3e6-4073-b1cb-bd8468a2bb6d" />
 
+Once the page has loaded, you can keep the simplified template checked. 
+
+<img width="534" height="294" alt="image" src="https://github.com/user-attachments/assets/28e25749-0b38-4970-b5bb-23135219e8d2" />
+
+And the first budget we will create will be a Zero spend budget, so that can also stay checked
+
+<img width="517" height="516" alt="image" src="https://github.com/user-attachments/assets/7388cdb7-2ea2-4590-9a80-48e5c790b4ae" />
+
