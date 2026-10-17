@@ -27,7 +27,7 @@ You can now switch back to the user and account and refresh the page. After some
 
 <img width="530" height="288" alt="image" src="https://github.com/user-attachments/assets/0fb84598-fc27-4809-890c-36448fb74df3" />
 
-Once you refresh the Billing and Cost Management page on the user account, you will now be able to see your data except for "Total forecasted cost for current month", because there is not enough historical data to forecast
+Once you refresh the Billing and Cost Management page on the user account, you will now be able to see your Cost summary data except for "Total forecasted cost for current month", because there is not enough historical data to forecast
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e7e57e2-fec0-4589-90c9-5958bc8e36ad" />
 
