@@ -96,3 +96,19 @@ Once the information is entered, you can proceed with the budget creation by cli
 The budget should now be successfully created
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a6edcaa-ae45-4cf1-8d20-6d5693beed9b" />
+
+However, if we want to create a monthly cost budget, we can also use the same simplified template and make sure you check the Monthly cost budget under templates
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8039ef32-bf1a-4095-8a65-ff5494a56fc6" />
+
+For this example, I don't want to exceed 12 dollars for the month, so to give this a descriptive name, I will be naming this budget "My Monthly Cost Budget ($12)"
+
+As for the budget amount, I will enter 12 into the prompt, enter my email in the recipient box, and click Create budget to finalize the creation
+
+<img width="1007" height="428" alt="image" src="https://github.com/user-attachments/assets/04b9efef-3f56-4ca3-9ac2-0415e7c466c8" />
+
+<img width="391" height="315" alt="image" src="https://github.com/user-attachments/assets/4e1c4c6f-78ad-4733-b2f9-20b16ffb7a0b" />
+
+The budget should now be successfully created: 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/951f0325-007f-4568-a972-f67a2ba120c3" />
