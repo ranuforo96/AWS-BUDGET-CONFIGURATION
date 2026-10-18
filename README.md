@@ -73,11 +73,19 @@ We start by right-clicking "Create a budget"
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2c883f1-c3e6-4073-b1cb-bd8468a2bb6d" />
 
-Once the page has loaded, you can keep the simplified template checked. 
+Once the page has loaded, you can keep the simplified template checked
 
 <img width="534" height="294" alt="image" src="https://github.com/user-attachments/assets/28e25749-0b38-4970-b5bb-23135219e8d2" />
 
 And the first budget we will create will be a Zero spend budget, so that can also stay checked
 
+This budget triggers an alert when your spending exceeds 1 cent
+
 <img width="517" height="516" alt="image" src="https://github.com/user-attachments/assets/7388cdb7-2ea2-4590-9a80-48e5c790b4ae" />
+
+The budget name will be "My Zero-Spend Budget"
+
+Then, in the Email recipients box, enter the email address of the recipients you want to receive the alerts
+
+<img width="527" height="522" alt="image" src="https://github.com/user-attachments/assets/6cc50b6a-8b4b-4d3c-aa7e-27335734975b" />
 
