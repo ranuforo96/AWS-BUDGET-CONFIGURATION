@@ -89,3 +89,10 @@ Then, in the Email recipients box, enter the email address of the recipients you
 
 <img width="527" height="522" alt="image" src="https://github.com/user-attachments/assets/6cc50b6a-8b4b-4d3c-aa7e-27335734975b" />
 
+Once the information is entered, you can proceed with the budget creation by clicking "Create budget"
+
+<img width="564" height="550" alt="image" src="https://github.com/user-attachments/assets/ef2df6ef-3b3d-4dfa-b465-b29100f73e20" />
+
+The budget should now be successfully created
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a6edcaa-ae45-4cf1-8d20-6d5693beed9b" />
