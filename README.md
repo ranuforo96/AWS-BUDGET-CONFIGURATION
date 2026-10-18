@@ -105,6 +105,8 @@ For this example, I don't want to exceed 12 dollars for the month, so to give th
 
 As for the budget amount, I will enter 12 into the prompt, enter my email in the recipient box, and click Create budget to finalize the creation
 
+This budget will actually alert 3 times: 1. "your actual spend reaches 85%", 2. "your actual spend reaches 100%", and  3. "if your forecasted spend is expected to reach 100%"
+
 <img width="1007" height="428" alt="image" src="https://github.com/user-attachments/assets/04b9efef-3f56-4ca3-9ac2-0415e7c466c8" />
 
 <img width="391" height="315" alt="image" src="https://github.com/user-attachments/assets/4e1c4c6f-78ad-4733-b2f9-20b16ffb7a0b" />
